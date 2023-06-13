@@ -3,7 +3,7 @@ import  java.util.*;
 
 class UserMainCode
 {
-	public int secondWordUppercase(int input1){
+	public String secondWordUppercase(String input1){
 
 
 		// Write code here...
